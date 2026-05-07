@@ -2,6 +2,7 @@
     "version": "0.1.60a",
     "homepage": "https://glide-browser.app/",
     "license": "MPL-2.0",
+    "description": "An extensible and keyboard-focused web browser",
     "architecture": {
         "64bit": {
             "url": "https://github.com/glide-browser/glide/releases/download/0.1.60a/glide.windows-x86_64.installer.exe#/dl.7z",
@@ -38,7 +39,8 @@
         "profile"
     ],
     "checkver": {
-        "github": "https://github.com/glide-browser/glide"
+        "github": "https://github.com/glide-browser/glide",
+        "regex": "releases/tag/([\\d.]+[a-z]?)"
     },
     "autoupdate": {
         "architecture": {
