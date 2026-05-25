@@ -1,16 +1,16 @@
 {
-    "version": "0.1.61a",
+    "version": "0.1.62a",
     "homepage": "https://glide-browser.app/",
     "license": "MPL-2.0",
     "description": "An extensible and keyboard-focused web browser",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glide-browser/glide/releases/download/0.1.61a/glide.windows-x86_64.installer.exe#/dl.7z",
-            "hash": "e4e938000ba1221df84ba311544759a6f66b6bc03ee5daa49a168cbfb98ad6d2"
+            "url": "https://github.com/glide-browser/glide/releases/download/0.1.62a/glide.windows-x86_64.installer.exe#/dl.7z",
+            "hash": "a937b6d1181de7ab1cdb5c29b76ed3ebd8208523f29c5962c21f57df49986776"
         },
         "arm64": {
-            "url": "https://github.com/glide-browser/glide/releases/download/0.1.61a/glide.windows-aarch64.installer.exe#/dl.7z",
-            "hash": "a42ac77908e0f90fa1589ffa9b364f5277c9c0d852523d2b95897fc0737f1ad9"
+            "url": "https://github.com/glide-browser/glide/releases/download/0.1.62a/glide.windows-aarch64.installer.exe#/dl.7z",
+            "hash": "f007718d373b1c06a19c594ed60da1d1b138bd2c3199516dc7333419441fe817"
         }
     },
     "extract_dir": "core",
